@@ -1,6 +1,8 @@
 # Themecord
 Discord theme that will always match your wallpaper!
 
+Fork of themecord but it removes the stupid animations.
+
 <img src="https://raw.githubusercontent.com/danihek/Themecord/refs/heads/main/assets/preview.gif" alt="drawing" style="width:1200px;"/>
 
 ## Why?
